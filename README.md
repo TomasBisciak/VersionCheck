@@ -1,2 +1,2 @@
 # VersionCheck
-[@$csgorr,1.000$@]
+[@$csgorr,0.0$@]
